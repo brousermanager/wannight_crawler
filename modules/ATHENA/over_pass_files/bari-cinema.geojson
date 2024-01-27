@@ -1,0 +1,454 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2023-07-16T18:37:00Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/448683033",
+        "amenity": "cinema",
+        "name": "UCI Cinemas multisala"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.5469299,
+          41.2168229
+        ]
+      },
+      "id": "node/448683033"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/477498744",
+        "amenity": "cinema",
+        "name": "Cinema Teatro Nuovo",
+        "office": "architect"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.3353099,
+          40.7015287
+        ]
+      },
+      "id": "node/477498744"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/563766858",
+        "addr:city": "Terlizzi",
+        "addr:postcode": "70038",
+        "addr:street": "Largo Don Pietro Pappagallo",
+        "amenity": "cinema",
+        "name": "Piccolo Osservatorio Garzia",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.5453735,
+          41.1307602
+        ]
+      },
+      "id": "node/563766858"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/565693494",
+        "amenity": "cinema",
+        "name": "Cinema Opera",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2762797,
+          41.3164489
+        ]
+      },
+      "id": "node/565693494"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/578119728",
+        "amenity": "cinema",
+        "name": "Cinema Elia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4089136,
+          41.1529148
+        ]
+      },
+      "id": "node/578119728"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/592016534",
+        "addr:city": "Martina Franca",
+        "addr:housenumber": "5",
+        "addr:postcode": "74015",
+        "addr:street": "Piazza XX Settembre",
+        "amenity": "cinema",
+        "facebook": "https://www.facebook.com/CinemaTeatroVerdi/",
+        "name": "Cinema Teatro Verdi",
+        "opening_hours": "Mo-Tu,Th-Su 19:00-21:00",
+        "screen": "1",
+        "website": "https://www.teatroverdi.eu/",
+        "wheelchair": "limited",
+        "wikidata": "Q46505411"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.3395439,
+          40.7047125
+        ]
+      },
+      "id": "node/592016534"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/620120661",
+        "amenity": "cinema",
+        "name": "AncheCinema Teatro Polifunzionale",
+        "old_name": "Cinema Teatro Royal",
+        "operator": "AncheCinema s.r.l.",
+        "screen": "1",
+        "website": "http://www.anchecinema.com/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.8642494,
+          41.1179704
+        ]
+      },
+      "id": "node/620120661"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/643883764",
+        "addr:housenumber": "19",
+        "addr:postcode": "70121",
+        "addr:street": "Largo Monsignore Augusto Curi",
+        "amenity": "cinema",
+        "name": "Cinema Esedra",
+        "website": "http://www.cinemaesedra.it/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.8832022,
+          41.1185756
+        ]
+      },
+      "id": "node/643883764"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1242093379",
+        "addr:housenumber": "24",
+        "addr:postcode": "70125",
+        "addr:street": "Via Buccari",
+        "amenity": "cinema",
+        "name": "Nuovo Splendor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.8699432,
+          41.1106541
+        ]
+      },
+      "id": "node/1242093379"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1307041456",
+        "addr:city": "Massafra",
+        "addr:housenumber": "10",
+        "addr:postcode": "74016",
+        "addr:street": "Piazza dei Martiri",
+        "amenity": "cinema",
+        "amenity_1": "theatre",
+        "name": "Cinema Teatro Spadaro",
+        "phone": "+39 0998801200"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.1120958,
+          40.5913542
+        ]
+      },
+      "id": "node/1307041456"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1634080143",
+        "amenity": "cinema",
+        "brand": "The Space Cinema",
+        "brand:wikidata": "Q3989406",
+        "name": "The Space Cinema",
+        "old_name": "Warner Village Cinema",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.9262251,
+          40.9711274
+        ]
+      },
+      "id": "node/1634080143"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2069339077",
+        "amenity": "cinema",
+        "name": "Cinema Odeon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.6015305,
+          41.1992951
+        ]
+      },
+      "id": "node/2069339077"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2505383729",
+        "addr:housenumber": "23",
+        "addr:street": "Piazza Vittorio Veneto",
+        "amenity": "cinema",
+        "description": "Il cineteatro si trova in pieno centro storico",
+        "name": "CineTeatro Comunale \"Gerardo Guerrieri\"",
+        "phone": "+39 0835 334116",
+        "website": "https://www.comingsoon.it/cinema/matera/cinema-comunale-guerrieri/2635/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.6060542,
+          40.6669321
+        ]
+      },
+      "id": "node/2505383729"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3109427880",
+        "addr:city": "Andria",
+        "addr:postcode": "76123",
+        "addr:street": "Via Flavio Giugno",
+        "amenity": "cinema",
+        "name": "Multisala Roma"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2965508,
+          41.2241035
+        ]
+      },
+      "id": "node/3109427880"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3439716849",
+        "addr:city": "Bari",
+        "addr:street": "Strada Provinciale Bitonto - Aeroporto Palese",
+        "amenity": "cinema",
+        "name": "Ciaky multisala"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.7745402,
+          41.1315405
+        ]
+      },
+      "id": "node/3439716849"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4143467613",
+        "amenity": "cinema",
+        "name": "Impero",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4187785,
+          41.2768999
+        ]
+      },
+      "id": "node/4143467613"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4518764972",
+        "amenity": "cinema",
+        "name": "ABCinema"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.8422523,
+          41.1383759
+        ]
+      },
+      "id": "node/4518764972"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5513438076",
+        "amenity": "cinema",
+        "name": "Sala Cinema Cineporto",
+        "operator": "Fondazione Apulia Film Commission",
+        "wheelchair": "yes",
+        "wheelchair:description:en": "2 places",
+        "wheelchair:description:it": "2 posti"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.8388862,
+          41.1372163
+        ]
+      },
+      "id": "node/5513438076"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5638027279",
+        "amenity": "cinema",
+        "description": "Gradinata usata in estate per proiezione di film all'aperto.",
+        "name": "Cinema all'aperto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.9297305,
+          40.7953721
+        ]
+      },
+      "id": "node/5638027279"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6449228875",
+        "addr:housenumber": "775",
+        "addr:street": "Via Bisceglie",
+        "amenity": "cinema",
+        "name": "La Cittadella degli Artisti"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.5811747,
+          41.207098
+        ]
+      },
+      "id": "node/6449228875"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6504688858",
+        "amenity": "cinema",
+        "min_age": "18",
+        "name": "Cinema Fioriti",
+        "screen": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.3564163,
+          40.8388176
+        ]
+      },
+      "id": "node/6504688858"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9234998281",
+        "addr:city": "Spinazzola",
+        "addr:postcode": "76014",
+        "addr:street": "Corso Umberto I",
+        "amenity": "cinema",
+        "contact:facebook": "buccominobistrot",
+        "contact:instagram": "buccomino_bistrot",
+        "name": "Cineteatro Buccomino",
+        "opening_hours": "Tu-Su 05:30-24:00",
+        "restaurant": "yes",
+        "website": "https://buccominobistrot.it/cinema/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.0944311,
+          40.9658633
+        ]
+      },
+      "id": "node/9234998281"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9666138325",
+        "addr:housenumber": "25, 29",
+        "addr:street": "Via Imbriani",
+        "amenity": "cinema",
+        "check_date": "2022-10-05",
+        "description": "Historic Cinema first opened in 1914",
+        "internet_access": "no",
+        "name": "Multisala Paolillo",
+        "payment:credit_cards": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "phone": "0883531022",
+        "website": "https://cinemapaolillo.it",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2796968,
+          41.3179981
+        ]
+      },
+      "id": "node/9666138325"
+    }
+  ]
+}

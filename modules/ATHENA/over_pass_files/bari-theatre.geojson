@@ -1,0 +1,363 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2023-07-16T18:40:01Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1285442721",
+        "amenity": "theatre",
+        "name": "Teatro Purgatorio",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.8583516,
+          41.1158394
+        ]
+      },
+      "id": "node/1285442721"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1364984750",
+        "amenity": "theatre",
+        "name": "Teatro Bravò",
+        "old_name": "Salottino"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.8866216,
+          41.1082652
+        ]
+      },
+      "id": "node/1364984750"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1409402959",
+        "amenity": "theatre",
+        "name": "Teatro Comunale"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.2316132,
+          40.6047507
+        ]
+      },
+      "id": "node/1409402959"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1495490311",
+        "amenity": "theatre",
+        "name": "Anfiteatro della Pace"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.9110766,
+          41.1042386
+        ]
+      },
+      "id": "node/1495490311"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1828422296",
+        "amenity": "theatre",
+        "name": "Piccolo teatro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.8717853,
+          41.112942
+        ]
+      },
+      "id": "node/1828422296"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1840102897",
+        "amenity": "theatre",
+        "name": "Città dell'Utopia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.0968852,
+          40.5768883
+        ]
+      },
+      "id": "node/1840102897"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2256020413",
+        "amenity": "theatre",
+        "name": "CineTeatro Norba",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.1161254,
+          40.9658333
+        ]
+      },
+      "id": "node/2256020413"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2937790759",
+        "amenity": "theatre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.97748,
+          40.6118086
+        ]
+      },
+      "id": "node/2937790759"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3232054567",
+        "addr:housenumber": "22/F",
+        "addr:street": "Strada San Giorgio Martire",
+        "amenity": "theatre",
+        "name": "Teatro Kismet Opera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.8385175,
+          41.1095339
+        ]
+      },
+      "id": "node/3232054567"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4173100270",
+        "addr:housenumber": "52",
+        "addr:postcode": "70124",
+        "addr:street": "Via Camillo Rosalba",
+        "amenity": "theatre",
+        "name": "Teatro dell'Anonima",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.8536951,
+          41.0865903
+        ]
+      },
+      "id": "node/4173100270"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4637233706",
+        "amenity": "theatre",
+        "name": "Anfiteatro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4457419,
+          40.8245009
+        ]
+      },
+      "id": "node/4637233706"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5256325421",
+        "amenity": "theatre",
+        "name": "Teatro Comunale di Putignano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.1212867,
+          40.8496441
+        ]
+      },
+      "id": "node/5256325421"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5291910603",
+        "addr:city": "Conversano",
+        "addr:housenumber": "14",
+        "addr:postcode": "70014",
+        "addr:street": "Via Donato Jaja",
+        "amenity": "theatre",
+        "description": "Centro polivalente per le arti dello spettacolo",
+        "name": "Casa delle Arti",
+        "phone": "+39 080 2376965",
+        "website": "http://casadellearti.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.1126077,
+          40.9643116
+        ]
+      },
+      "id": "node/5291910603"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5513767482",
+        "amenity": "theatre",
+        "name": "Teatro Comunale"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.1122675,
+          40.588163
+        ]
+      },
+      "id": "node/5513767482"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6278655519",
+        "amenity": "theatre",
+        "theatre:type": "amphi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.0795195,
+          41.2106346
+        ]
+      },
+      "id": "node/6278655519"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6925278988",
+        "addr:street": "Largo Adua",
+        "amenity": "theatre",
+        "name": "Teatro Kursaal Santalucia",
+        "wikidata": "Q108833300",
+        "wikipedia": "it:Teatro Kursaal Santalucia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.875653,
+          41.1237184
+        ]
+      },
+      "id": "node/6925278988"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7229912074",
+        "addr:city": "Matera",
+        "addr:postcode": "75100",
+        "addr:street": "Piazza del Sedile",
+        "amenity": "theatre",
+        "operator": "Auditorium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.6096849,
+          40.6652897
+        ]
+      },
+      "id": "node/7229912074"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7426825648",
+        "addr:housename": "Arena della Vittoria",
+        "addr:housenumber": "4/a",
+        "addr:postcode": "70132",
+        "addr:street": "Via di Maratona",
+        "amenity": "theatre",
+        "level": "0",
+        "name": "Casa di Pulcinella",
+        "theatre:genre": "marionette",
+        "website": "http://www.casadipulcinella.it/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.8397327,
+          41.1320935
+        ]
+      },
+      "id": "node/7426825648"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8463881616",
+        "amenity": "theatre",
+        "theatre:type": "open_air"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4958617,
+          41.2286545
+        ]
+      },
+      "id": "node/8463881616"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9984731031",
+        "addr:city": "Santeramo in Colle",
+        "addr:housenumber": "20",
+        "addr:postcode": "70029",
+        "addr:street": "Via San Domenico Savio",
+        "amenity": "theatre",
+        "email": "info@ilsaltimbanco.org",
+        "name": "Teatro \"Il Saltimbanco\"",
+        "phone": "+39 393 8917729",
+        "website": "https://www.ilsaltimbanco.org/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.7507832,
+          40.799688
+        ]
+      },
+      "id": "node/9984731031"
+    }
+  ]
+}

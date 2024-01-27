@@ -1,0 +1,111 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2023-07-16T18:37:59Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6499283756",
+        "addr:city": "Bari",
+        "addr:housenumber": "18",
+        "addr:postcode": "70127",
+        "addr:street": "Via Natale Pisicchio",
+        "addr:unit": "B/C/D",
+        "amenity": "events_venue",
+        "contact:phone": "347 798 9768",
+        "name": "Il giardino delle feste",
+        "website": "https://www.facebook.com/Il-Giardino-delle-Feste-488044918015511/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.7407401,
+          41.1466513
+        ]
+      },
+      "id": "node/6499283756"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9063080812",
+        "addr:city": "Toritto",
+        "addr:housenumber": "43",
+        "addr:postcode": "70020",
+        "addr:street": "Via Pedali della Murgia",
+        "amenity": "events_venue",
+        "contact:email": "info@murgiagardenricevimenti.it",
+        "contact:mobile": "+39 340 5353702",
+        "contact:phone": "+39 080 9926028",
+        "name": "Murgia Garden Ricevimenti",
+        "website": "https://www.murgiagardenricevimenti.it"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.5717308,
+          40.9676983
+        ]
+      },
+      "id": "node/9063080812"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9714097070",
+        "amenity": "events_venue",
+        "name": "Villa Terra Rossa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4874905,
+          41.2496497
+        ]
+      },
+      "id": "node/9714097070"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9909460405",
+        "amenity": "events_venue",
+        "check_date": "2022-07-25",
+        "name": "La Finestra",
+        "phone": "+39 340 377 5584"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.5815641,
+          40.6706816
+        ]
+      },
+      "id": "node/9909460405"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10742201837",
+        "addr:city": "Acquaviva delle Fonti",
+        "addr:country": "IT",
+        "addr:housenumber": "5",
+        "addr:postcode": "70021",
+        "addr:street": "Via Roma",
+        "amenity": "events_venue",
+        "name": "Events 5",
+        "phone": "327 10 66 120"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.8424727,
+          40.8959135
+        ]
+      },
+      "id": "node/10742201837"
+    }
+  ]
+}

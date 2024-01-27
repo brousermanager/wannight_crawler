@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2023-07-16T18:39:01Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2510604900",
+        "amenity": "social_centre",
+        "name": "Gruppo Scout AGESCI Matera 3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.6124708,
+          40.6606113
+        ]
+      },
+      "id": "node/2510604900"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9921061102",
+        "amenity": "social_centre",
+        "check_date": "2022-07-30",
+        "name": "Centro sociale Anziani \"San Gioacchino\""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.6652013,
+          40.5554915
+        ]
+      },
+      "id": "node/9921061102"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9935662830",
+        "amenity": "social_centre",
+        "check_date": "2022-08-06",
+        "name": "Coldiretti"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.5987259,
+          40.66672
+        ]
+      },
+      "id": "node/9935662830"
+    }
+  ]
+}

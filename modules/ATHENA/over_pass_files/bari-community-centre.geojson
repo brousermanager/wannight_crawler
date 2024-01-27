@@ -1,0 +1,179 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2023-07-16T18:37:59Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1212126593",
+        "amenity": "community_centre",
+        "name": "Dopo di Noi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.9314912,
+          41.07131
+        ]
+      },
+      "id": "node/1212126593"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1300912704",
+        "amenity": "community_centre",
+        "name": "Centro Polivalente Anziani"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.1246632,
+          40.5820447
+        ]
+      },
+      "id": "node/1300912704"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2393679753",
+        "addr:city": "Sammichele di Bari",
+        "addr:housenumber": "24",
+        "addr:postcode": "70010",
+        "addr:street": "Via Principessa Mafalda",
+        "amenity": "community_centre",
+        "name": "Pro Loco \"Dino Bianco\"",
+        "tourism": "information",
+        "website": "http://www.prolocosammicheledibari.it/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.9488523,
+          40.8886448
+        ]
+      },
+      "id": "node/2393679753"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2648930442",
+        "addr:city": "Terlizzi",
+        "addr:postcode": "70038",
+        "addr:street": "Largo Cavour",
+        "amenity": "community_centre",
+        "name": "Ex Convento delle Clarisse",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.5431785,
+          41.12976
+        ]
+      },
+      "id": "node/2648930442"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4138969383",
+        "addr:city": "Martina Franca",
+        "addr:housenumber": "1b",
+        "addr:postcode": "74015",
+        "addr:street": "Via Mottola",
+        "amenity": "community_centre",
+        "name": "CAV Coordinamento Associazioni di Volontariato"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.330968,
+          40.7055696
+        ]
+      },
+      "id": "node/4138969383"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4216302078",
+        "addr:city": "Ceglie Messapica",
+        "addr:housenumber": "25",
+        "addr:postcode": "72013",
+        "addr:street": "Piazza Vecchia",
+        "amenity": "community_centre",
+        "name": "Associazione Borgo Antico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.5190534,
+          40.646347
+        ]
+      },
+      "id": "node/4216302078"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6656178533",
+        "amenity": "community_centre",
+        "name": "Leone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.8693471,
+          41.1299603
+        ]
+      },
+      "id": "node/6656178533"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6728411049",
+        "addr:city": "Casamassima",
+        "addr:housenumber": "2",
+        "addr:postcode": "70010",
+        "addr:street": "Via Vincenzo Savino",
+        "amenity": "community_centre",
+        "email": "comune.casamassima@pec.it",
+        "name": "Comune di Casamassima",
+        "opening_hours": "Mo-Su 08:30-21:00",
+        "phone": "+39 080 653 01 11",
+        "website": "http://comune.casamassima.ba.it/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.9182232,
+          40.9554669
+        ]
+      },
+      "id": "node/6728411049"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8138800647",
+        "amenity": "community_centre",
+        "name": "dopo di noi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3073528,
+          41.2331032
+        ]
+      },
+      "id": "node/8138800647"
+    }
+  ]
+}

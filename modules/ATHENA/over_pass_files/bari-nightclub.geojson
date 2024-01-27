@@ -1,0 +1,119 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2023-07-16T18:39:01Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/355874304",
+        "amenity": "nightclub",
+        "name": "Divinae Follie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4694899,
+          41.252984
+        ]
+      },
+      "id": "node/355874304"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/387223649",
+        "amenity": "nightclub",
+        "name": "Lampara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4403442,
+          41.2673766
+        ]
+      },
+      "id": "node/387223649"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/398154353",
+        "amenity": "nightclub",
+        "name": "Il vecchio e il mare"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4222936,
+          41.2805989
+        ]
+      },
+      "id": "node/398154353"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/427580763",
+        "amenity": "nightclub",
+        "name": "Blue"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.479074,
+          41.2554642
+        ]
+      },
+      "id": "node/427580763"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/482836933",
+        "amenity": "nightclub",
+        "name": "Portulaca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4193769,
+          41.2786869
+        ]
+      },
+      "id": "node/482836933"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3575151618",
+        "amenity": "nightclub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.8729705,
+          41.1259857
+        ]
+      },
+      "id": "node/3575151618"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9918616425",
+        "amenity": "nightclub",
+        "name": "Ipanema Club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2995602,
+          41.319552
+        ]
+      },
+      "id": "node/9918616425"
+    }
+  ]
+}

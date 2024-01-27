@@ -1,0 +1,140 @@
+{
+    "using_path": [
+        {
+            "name": "name",
+            "path": "[0] - {require} - [0] - [3] - [0] - {__bbox} - {require} - [3] - [3] - [3] - {meta} - {title}",
+            "type": "<class 'str'>",
+            "require": true
+        },
+        {
+            "name": "date_start",
+            "path": "[2] - {require} - [0] - [3] - [0] - {__bbox} - {require} - [7] - [3] - [1] - {__bbox} - {result} - {data} - {event} - {start_timestamp}",
+            "type": "<class 'int'>",
+            "require": true
+        },
+        {
+            "name": "photo",
+            "path": "[2] - {require} - [0] - [3] - [0] - {__bbox} - {require} - [7] - [3] - [1] - {__bbox} - {result} - {data} - {event} - {cover_media_renderer} - {cover_photo} - {photo} - {full_image} - {uri}",
+            "type": "<class 'str'>",
+            "require": false
+        },
+        {
+            "name": "description",
+            "path": "[2] - {require} - [0] - [3] - [0] - {__bbox} - {require} - [7] - [3] - [1] - {__bbox} - {result} - {data} - {event} - {event_description} - {text}",
+            "type": "<class 'str'>",
+            "require": false
+        },
+        {
+            "name": "latitude",
+            "path": "[3] - {require} - [0] - [3] - [0] - {__bbox} - {require} - [7] - [3] - [1] - {__bbox} - {result} - {data} - {event} - {event_place} - {location} - {latitude}",
+            "type": "<class 'float'>",
+            "require": true
+        },
+        {
+            "name": "longitude",
+            "path": "[3] - {require} - [0] - [3] - [0] - {__bbox} - {require} - [7] - [3] - [1] - {__bbox} - {result} - {data} - {event} - {event_place} - {location} - {longitude}",
+            "type": "<class 'float'>",
+            "require": true
+        },
+        {
+            "name": "address",
+            "path": "[2] - {require} - [0] - [3] - [0] - {__bbox} - {require} - [7] - [3] - [1] - {__bbox} - {result} - {data} - {event} - {event_place} - {address} - {street}",
+            "type": "<class 'str'>",
+            "require": false
+        },
+        {
+            "name": "city",
+            "path": "[2] - {require} - [0] - [3] - [0] - {__bbox} - {require} - [7] - [3] - [1] - {__bbox} - {result} - {data} - {event} - {event_place} - {city} - {contextual_name}",
+            "type": "<class 'str'>",
+            "require": false
+        },
+        {
+            "name": "location",
+            "path": "[2] - {require} - [0] - [3] - [0] - {__bbox} - {require} - [7] - [3] - [1] - {__bbox} - {result} - {data} - {event} - {event_privacy_info} - {title} - {ranges} - [0] - {entity} - {short_name}",
+            "type": "<class 'str'>",
+            "require": false
+        },
+        {
+            "name": "organizer_name",
+            "path": "[2] - {require} - [0] - [3] - [0] - {__bbox} - {require} - [7] - [3] - [1] - {__bbox} - {result} - {data} - {event} - {event_creator} - {name}",
+            "type": "<class 'str'>",
+            "require": true
+        },
+        {
+            "name": "exit_nodes",
+            "path": "[2] - {require} - [0] - [3] - [0] - {__bbox} - {require} - [7] - [3] - [1] - {__bbox} - {result} - {data} - {event} - {event_hosts_that_can_view_guestlist}",
+            "require": false,
+            "type": "<class 'list'>",
+            "item-type": "<class 'dict'>",
+            "dict-key": "url"
+        },
+        {
+            "name": "categories",
+            "path": "[2] - {require} - [0] - [3] - [0] - {__bbox} - {require} - [7] - [3] - [1] - {__bbox} - {result} - {data} - {event} - {discovery_categories}",
+            "require": false,
+            "type": "<class 'list'>",
+            "item-type": "<class 'dict'>",
+            "dict-key": "label"
+        }
+    ],
+    "find_path": {
+        "name": [
+            "[0] - {require} - [0] - [3] - [0] - {__bbox} - {require} - [3] - [3] - [3] - {meta} - {title}",
+            "[2] - {require} - [0] - [3] - [0] - {__bbox} - {require} - [7] - [3] - [1] - {__bbox} - {result} - {data} - {event} - {name}",
+            "[19] - {require} - [0] - [3] - [0] - {__bbox} - {require} - [7] - [3] - [1] - {__bbox} - {result} - {data} - {event} - {name}"
+        ],
+        "date_start": [
+            "[2] - {require} - [0] - [3] - [0] - {__bbox} - {require} - [7] - [3] - [1] - {__bbox} - {result} - {data} - {event} - {current_start_timestamp}",
+            "[2] - {require} - [0] - [3] - [0] - {__bbox} - {require} - [7] - [3] - [1] - {__bbox} - {result} - {data} - {event} - {start_timestamp}",
+            "[19] - {require} - [0] - [3] - [0] - {__bbox} - {require} - [7] - [3] - [1] - {__bbox} - {result} - {data} - {event} - {current_start_timestamp}",
+            "[19] - {require} - [0] - [3] - [0] - {__bbox} - {require} - [7] - [3] - [1] - {__bbox} - {result} - {data} - {event} - {start_timestamp}"
+        ],
+        "photo": [
+            "[2] - {require} - [0] - [3] - [0] - {__bbox} - {require} - [7] - [3] - [1] - {__bbox} - {result} - {data} - {event} - {cover_media_renderer} - {cover_photo} - {photo} - {full_image} - {uri}"
+        ],
+        "description": [
+            "[2] - {require} - [0] - [3] - [0] - {__bbox} - {require} - [7] - [3] - [1] - {__bbox} - {result} - {data} - {event} - {event_description} - {text}",
+            "[2] - {require} - [0] - [3] - [0] - {__bbox} - {require} - [3] - [3] - [1] - {__bbox} - {result} - {data} - {event} - {event_description} - {text}"
+        ],
+        "latitude": [
+            "[3] - {require} - [0] - [3] - [0] - {__bbox} - {require} - [5] - [3] - [1] - {__bbox} - {result} - {data} - {event} - {event_place} - {location} - {latitude}"
+        ],
+        "longitude": [
+            "[3] - {require} - [0] - [3] - [0] - {__bbox} - {require} - [5] - [3] - [1] - {__bbox} - {result} - {data} - {event} - {event_place} - {location} - {longitude}"
+        ],
+        "address": [
+            "[2] - {require} - [0] - [3] - [0] - {__bbox} - {require} - [7] - [3] - [1] - {__bbox} - {result} - {data} - {event} - {event_place} - {address} - {street}"
+        ],
+        "city": [
+            "[2] - {require} - [0] - [3] - [0] - {__bbox} - {require} - [7] - [3] - [1] - {__bbox} - {result} - {data} - {event} - {event_place} - {city} - {contextual_name}",
+            "[2] - {require} - [0] - [3] - [0] - {__bbox} - {require} - [7] - [3] - [1] - {__bbox} - {result} - {data} - {event} - {location} - {reverse_geocode} - {city_page} - {name}"
+        ],
+        "location": [
+            "[2] - {require} - [0] - [3] - [0] - {__bbox} - {require} - [7] - [3] - [1] - {__bbox} - {result} - {data} - {event} - {event_privacy_info} - {title} - {ranges} - [0] - {entity} - {short_name}",
+            "[2] - {require} - [0] - [3] - [0] - {__bbox} - {require} - [7] - [3] - [1] - {__bbox} - {result} - {data} - {event} - {event_hosts_that_can_view_guestlist} - [0] - {name}",
+            "[2] - {require} - [0] - [3] - [0] - {__bbox} - {require} - [7] - [3] - [1] - {__bbox} - {result} - {data} - {event} - {event_place} - {contextual_name}",
+            "[2] - {require} - [0] - [3] - [0] - {__bbox} - {require} - [7] - [3] - [1] - {__bbox} - {result} - {data} - {event} - {event_place} - {name}",
+            "[2] - {require} - [0] - [3] - [0] - {__bbox} - {require} - [7] - [3] - [1] - {__bbox} - {result} - {data} - {event} - {event_place} - {featurable_title} - {ranges} - [0] - {entity} - {short_name}",
+            "[2] - {require} - [0] - [3] - [0] - {__bbox} - {require} - [7] - [3] - [1] - {__bbox} - {result} - {data} - {event} - {event_place} - {featurable_title} - {text}",
+            "[2] - {require} - [0] - [3] - [0] - {__bbox} - {require} - [7] - [3] - [1] - {__bbox} - {result} - {data} - {event} - {event_host_context_row_info} - {title} - {ranges} - [0] - {entity} - {short_name}",
+            "[19] - {require} - [0] - [3] - [0] - {__bbox} - {require} - [7] - [3] - [1] - {__bbox} - {result} - {data} - {event} - {event_place} - {name}",
+            "[19] - {require} - [0] - [3] - [0] - {__bbox} - {require} - [7] - [3] - [1] - {__bbox} - {result} - {data} - {event} - {event_place} - {contextual_name}"
+        ],
+        "organizer_name": [
+            "[2] - {require} - [0] - [3] - [0] - {__bbox} - {require} - [7] - [3] - [1] - {__bbox} - {result} - {data} - {event} - {event_creator} - {name}",
+            "[3] - {require} - [0] - [3] - [0] - {__bbox} - {require} - [7] - [3] - [1] - {__bbox} - {result} - {data} - {event} - {event_privacy_info} - {title} - {ranges} - [0] - {entity} - {short_name}",
+            "[3] - {require} - [0] - [3] - [0] - {__bbox} - {require} - [7] - [3] - [1] - {__bbox} - {result} - {data} - {event} - {event_hosts_that_can_view_guestlist} - [0] - {name}",
+            "[3] - {require} - [0] - [3] - [0] - {__bbox} - {require} - [7] - [3] - [1] - {__bbox} - {result} - {data} - {event} - {event_host_context_row_info} - {title} - {ranges} - [0] - {entity} - {short_name}",
+            "[3] - {require} - [0] - [3] - [0] - {__bbox} - {require} - [7] - [3] - [1] - {__bbox} - {result} - {data} - {event} - {event_creator} - {name}"
+        ],
+        "exit_nodes": [
+            "[2] - {require} - [0] - [3] - [0] - {__bbox} - {require} - [7] - [3] - [1] - {__bbox} - {result} - {data} - {event} - {event_hosts_that_can_view_guestlist}"
+        ],
+        "duration": [
+            "[2] - {require} - [0] - [3] - [0] - {__bbox} - {require} - [7] - [3] - [1] - {__bbox} - {result} - {data} - {event} - {display_duration}"
+        ],
+        "categories": [
+            "[2] - {require} - [0] - [3] - [0] - {__bbox} - {require} - [7] - [3] - [1] - {__bbox} - {result} - {data} - {event} - {discovery_categories}"
+        ]
+    }
+}

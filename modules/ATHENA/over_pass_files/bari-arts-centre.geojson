@@ -1,0 +1,253 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2023-07-16T18:37:00Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2368169765",
+        "amenity": "arts_centre",
+        "name": "Circolo ARCI 37 \"Tressett\"",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.6827688,
+          41.1810192
+        ]
+      },
+      "id": "node/2368169765"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2939194603",
+        "addr:city": "Matera",
+        "addr:housenumber": "1",
+        "addr:postcode": "75100",
+        "addr:street": "Via Galileo Galilei",
+        "amenity": "arts_centre",
+        "amenity_1": "arts_centre",
+        "amenity_2": "community_centre",
+        "check_date": "2022-06-05",
+        "email": "casa@benetural.com",
+        "facebook": "https://www.facebook.com/CasaNetural/",
+        "internet_access": "yes",
+        "name": "Casa Netural - coworking",
+        "note": "Centro culturale di valore",
+        "opening_hours": "10:00-19:00",
+        "phone": "+39 0835 388276",
+        "website": "http://www.benetural.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.5942153,
+          40.6766159
+        ]
+      },
+      "id": "node/2939194603"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4173298938",
+        "amenity": "arts_centre",
+        "name": "Opera Arte e Arti"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.6110358,
+          40.6664338
+        ]
+      },
+      "id": "node/4173298938"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4688579953",
+        "addr:city": "Fasano",
+        "addr:postcode": "72015",
+        "addr:street": "Largo Seggio",
+        "amenity": "arts_centre",
+        "description": "Palazzo dell’Università è situato nella bella Piazzetta di largo Seggio, ed è l’antica sede della municipalità cittadina, la ‘Universitas Fajanensis’. Da ammirare la Loggia a tre archi, oggi tamponati.",
+        "name": "Palazzo dell’Università (sec. XVII-XVIII)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.35884,
+          40.8345374
+        ]
+      },
+      "id": "node/4688579953"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4688581718",
+        "addr:city": "Fasano",
+        "addr:postcode": "72015",
+        "addr:street": "Largo Seggio",
+        "amenity": "arts_centre",
+        "description": "Il Palazzo del Seggio, dove ha sede il Centro Studi, è situato nella suggestiva Piazzetta di Largo Seggio, insieme alla Biblioteca e al Palazzo dell’Università",
+        "name": "Palazzo del Seggio - Centro Studi (sec. XVII-XVIII)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.3588584,
+          40.8345073
+        ]
+      },
+      "id": "node/4688581718"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4689152732",
+        "amenity": "arts_centre",
+        "name": "Centro Studi Valerio Gentile (sec. XVII-XVIII)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.358949,
+          40.8345591
+        ]
+      },
+      "id": "node/4689152732"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5513767481",
+        "addr:housenumber": "5",
+        "addr:street": "Via Caduti della Nave Roma",
+        "amenity": "arts_centre",
+        "name": "Palazzo della Cultura"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.1126296,
+          40.5883606
+        ]
+      },
+      "id": "node/5513767481"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5647265624",
+        "amenity": "arts_centre",
+        "name": "Spaccabari",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.8728567,
+          41.1282103
+        ]
+      },
+      "id": "node/5647265624"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6006073677",
+        "amenity": "arts_centre",
+        "name": "BLUorg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.8758167,
+          41.1211317
+        ]
+      },
+      "id": "node/6006073677"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6728411047",
+        "addr:city": "Casamassima",
+        "addr:postcode": "70010",
+        "addr:street": "Chiasso Elia",
+        "amenity": "arts_centre",
+        "name": "Auditorium dell'Addolorata"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.9191908,
+          40.9553504
+        ]
+      },
+      "id": "node/6728411047"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8422130704",
+        "amenity": "arts_centre",
+        "name": "Laboratorio Urbano Rigenera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.7050324,
+          41.0533233
+        ]
+      },
+      "id": "node/8422130704"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9270080680",
+        "amenity": "arts_centre",
+        "name": "Janfko Country Jam"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.8146643,
+          41.0791303
+        ]
+      },
+      "id": "node/9270080680"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9348416598",
+        "addr:city": "Bari",
+        "addr:housenumber": "8",
+        "addr:postcode": "70123",
+        "addr:street": "Via Colonello de Cristoforis",
+        "amenity": "arts_centre",
+        "name": "Spazio 13",
+        "opening_hours": "Mo-Fr 10:00-20:00",
+        "opening_hours:covid19": "same",
+        "website": "https://spazio13.org",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.8560676,
+          41.1246725
+        ]
+      },
+      "id": "node/9348416598"
+    }
+  ]
+}

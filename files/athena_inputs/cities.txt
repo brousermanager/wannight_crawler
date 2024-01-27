@@ -1,0 +1,257 @@
+BARI
+Altamura
+Molfetta
+Bitonto
+Monopoli
+Corato
+Gravina in Puglia
+Modugno
+Gioia del Colle
+Terlizzi
+Putignano
+Noicattaro
+Triggiano
+Conversano
+Santeramo in Colle
+Mola di Bari
+Ruvo di Puglia
+Palo del Colle
+Acquaviva delle Fonti
+Castellana Grotte
+Giovinazzo
+Casamassima
+Noci
+Rutigliano
+Polignano a Mare
+Valenzano
+Adelfia
+Capurso
+Cassano delle Murge
+Locorotondo
+Turi
+Grumo Appula
+Bitetto
+Bitritto
+Alberobello
+Sannicandro di Bari
+Toritto
+Sammichele di Bari
+Cellamare
+Binetto
+Poggiorsini
+ANDRIA
+BARLETTA
+TRANI
+Bisceglie
+Canosa di Puglia
+Trinitapoli
+San Ferdinando di P.
+Margherita di Savoia
+Minervino Murge
+Spinazzola
+BRINDISI
+Fasano
+Francavilla Fontana
+Ostuni
+Mesagne
+Ceglie Messapica
+San Vito dei Normanni
+Carovigno
+Oria
+Latiano
+San Pietro Vernotico
+Cisternino
+Torre Santa Susanna
+San Pancrazio Salentino
+Villa Castelli
+Erchie
+San Donaci
+Cellino San Marco
+San Michele Salentino
+Torchiarolo
+FOGGIA
+Cerignola
+Manfredonia
+San Severo
+Lucera
+San Giovanni Rotondo
+Orta Nova
+Torremaggiore
+San Nicandro Garganico
+Vieste
+San Marco in Lamis
+Apricena
+Monte Sant'Angelo
+Vico del Gargano
+Carapelle
+Troia
+Cagnano Varano
+Lesina
+Mattinata
+Ascoli Satriano
+Stornara
+San Paolo di Civitate
+Stornarella
+Peschici
+Ischitella
+Carpino
+Serracapriola
+Deliceto
+Rodi Garganico
+Zapponeta
+Bovino
+Ordona
+Biccari
+Orsara di Puglia
+Candela
+Poggio Imperiale
+Pietramontecorvino
+Accadia
+Castelluccio dei Sauri
+Rignano Garganico
+Sant'Agata di Puglia
+Casalvecchio di Puglia
+Rocchetta Sant'Antonio
+Volturino
+Chieuti
+Celenza Valfortore
+Casalnuovo Monterotaro
+Castelnuovo della D.
+Castelluccio V.
+Anzano di Puglia
+Roseto Valfortore
+Monteleone di Puglia
+San Marco la Catola
+Alberona
+Carlantino
+Panni
+Motta Montecorvino
+Faeto
+Isole Tremiti
+Volturara Appula
+Celle di San Vito
+LECCE
+Nardò
+Galatina
+Copertino
+Gallipoli
+Casarano
+Tricase
+Galatone
+Surbo
+Trepuzzi
+Leverano
+Maglie
+Veglie
+Monteroni di Lecce
+Squinzano
+Cavallino
+Ugento
+Lizzanello
+Carmiano
+Taviano
+Taurisano
+Matino
+Racale
+Melendugno
+Campi Salentina
+Ruffano
+Presicce-Acquarica
+Aradeo
+Cutrofiano
+Parabita
+Lequile
+Martano
+San Cesario di Lecce
+Salice Salentino
+Novoli
+Vernole
+Calimera
+Scorrano
+Melissano
+Alliste
+Porto Cesareo
+Alessano
+Poggiardo
+Corigliano d'Otranto
+Otranto
+Alezio
+Collepasso
+Sannicola
+San Donato di Lecce
+Guagnano
+Soleto
+Corsano
+Castrignano del Capo
+Tuglie
+Neviano
+Gagliano del Capo
+Muro Leccese
+Salve
+Specchia
+Andrano
+Uggiano la Chiesa
+Supersano
+Arnesano
+Cursi
+Sogliano Cavour
+Castrignano de' Greci
+Carpignano Salentino
+Minervino di Lecce
+Spongano
+San Pietro in Lama
+Miggiano
+Morciano di Leuca
+Diso
+Santa Cesarea Terme
+Tiggiano
+Castri di Lecce
+Botrugno
+Montesano Salentino
+Castro
+Caprarica di Lecce
+Ortelle
+Sternatia
+Nociglia
+Melpignano
+San Cassiano
+Giurdignano
+Zollino
+Seclì
+Bagnolo del Salento
+Patù
+Cannole
+Martignano
+Surano
+Sanarica
+Palmariggi
+Giuggianello
+TARANTO
+Martina Franca
+Massafra
+Grottaglie
+Manduria
+Ginosa
+Castellaneta
+Palagiano
+Sava
+Mottola
+Laterza
+San Giorgio Ionico
+Crispiano
+Statte
+Pulsano
+Lizzano
+San Marzano di San G.
+Leporano
+Palagianello
+Carosino
+Avetrana
+Monteiasi
+Maruggio
+Fragagnano
+Torricella
+Montemesola
+Faggiano
+Monteparano
+Roccaforzata

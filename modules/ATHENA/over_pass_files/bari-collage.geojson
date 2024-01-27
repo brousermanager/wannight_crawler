@@ -1,0 +1,100 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2023-07-16T18:36:00Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/373382776",
+        "addr:city": "Terlizzi",
+        "addr:country": "IT",
+        "addr:housenumber": "52",
+        "addr:postcode": "70038",
+        "addr:state": "Italia",
+        "addr:street": "Viale dei Garofani",
+        "amenity": "college",
+        "contact:website": "https://www.epcpep.com/terlizzi",
+        "name": "Centro Formazione Professionale Servizi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.550353,
+          41.131237
+        ]
+      },
+      "id": "node/373382776"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2504671481",
+        "addr:city": "Matera",
+        "addr:country": "IT",
+        "addr:postcode": "75100",
+        "addr:street": "Via Enrico Mattei",
+        "amenity": "college",
+        "check_date": "2022-06-07",
+        "name": "Istituto industriale superiore \"G.B PENTASUGLIA\"",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.579635,
+          40.67971
+        ]
+      },
+      "id": "node/2504671481"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4828964110",
+        "addr:city": "Bari",
+        "addr:housenumber": "41",
+        "addr:postcode": "70124",
+        "addr:street": "Via Orfeo Mazzitelli",
+        "amenity": "college",
+        "description": "Residenza maschile per studenti e Alta Scuola Internazionale Residenziale per Innovatori Digitali",
+        "internet_access": "wlan",
+        "name": "Collegio Universitario di Merito IPE Poggiolevante",
+        "website": "https://poggiolevante.it"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.8542561,
+          41.1008338
+        ]
+      },
+      "id": "node/4828964110"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8000975501",
+        "access": "customers",
+        "addr:city": "Polignano a Mare",
+        "addr:country": "IT",
+        "addr:housenumber": "14",
+        "addr:postcode": "70044",
+        "addr:street": "Via San Vito",
+        "amenity": "college",
+        "door": "yes",
+        "entrance": "yes",
+        "name": "Accademia delle muse - scuola di danza"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.217175,
+          40.9962984
+        ]
+      },
+      "id": "node/8000975501"
+    }
+  ]
+}

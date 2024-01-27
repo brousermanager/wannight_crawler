@@ -1,0 +1,137 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2023-07-16T18:40:01Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/691622679",
+        "amenity": "studio",
+        "name": "Sfera Records Music Label"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4144377,
+          41.154868
+        ]
+      },
+      "id": "node/691622679"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2248975641",
+        "amenity": "studio",
+        "description": "Radio universitaria",
+        "name": "Radio Frequenza Libera",
+        "studio": "radio",
+        "website": "https://www.frequenzalibera.it/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.8796509,
+          41.1086924
+        ]
+      },
+      "id": "node/2248975641"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2519940611",
+        "amenity": "studio",
+        "name": "Radio Frequenza Libera",
+        "source": "survey",
+        "website": "https://www.frequenzalibera.it/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.8791908,
+          41.1081294
+        ]
+      },
+      "id": "node/2519940611"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9928877586",
+        "amenity": "studio",
+        "check_date": "2022-08-03",
+        "description": "Sync Music Academy - Sala prove - Studio di registrazione",
+        "name": "Sync Music Academy",
+        "source": "local knowledge",
+        "studio": "audio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.5935214,
+          40.6749171
+        ]
+      },
+      "id": "node/9928877586"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10542727649",
+        "addr:city": "Matera",
+        "addr:housenumber": "18",
+        "addr:postcode": "75100",
+        "addr:street": "Via Giolitti",
+        "amenity": "studio",
+        "contact:facebook": "http://www.facebook.com/trmtv",
+        "contact:phone": "+39 0835 700011",
+        "contact:twitter": "http://www.twitter.com/Trmtv;http://www.twitter.com/Trmh24",
+        "contact:website": "https://www.trmtv.it",
+        "contact:youtube": "http://www.youtube.com/trmh24",
+        "description": "Emittente Televisiva",
+        "name": "TRM Network",
+        "studio": "television",
+        "website": "www.trmtv.it"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.6051424,
+          40.6722156
+        ]
+      },
+      "id": "node/10542727649"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10542776817",
+        "addr:city": "Bari",
+        "addr:housenumber": "351/D",
+        "addr:postcode": "70132",
+        "addr:street": "Via Napoli",
+        "amenity": "studio",
+        "contact:facebook": "http://www.facebook.com/trmtv",
+        "contact:phone": "+39 080 8501873",
+        "contact:twitter": "http://www.twitter.com/Trmtv;http://www.twitter.com/Trmh24",
+        "contact:website": "https://www.trmtv.it",
+        "contact:youtube": "http://www.youtube.com/trmh24",
+        "description": "Emittente Televisiva",
+        "name": "TRM Network",
+        "studio": "television"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.8363416,
+          41.1287841
+        ]
+      },
+      "id": "node/10542776817"
+    }
+  ]
+}
