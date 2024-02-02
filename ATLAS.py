@@ -101,9 +101,16 @@ def setupSingleProcess() -> None :
 
 if __name__ == '__main__' :
     load_dotenv()
-    set_database(os.environ.get(
-        f"DATABASE_URL_{'PROD' if os.environ.get('IS_DEV') == 0 else 'DEV'}"
-    ))
+  
+    database_url = os.environ.get('DATABASE_URL')
+
+    if database_url:
+        print(database_url)
+        set_database(database_url)
+       
+    else:
+        # Handle the case where the database URL is not found
+        print(f"Database URL not found for key: {database_url_key}")
     if len(sys.argv) > 1 :
         try:
             if sys.argv[1] == 'OneNightCrawling' :
